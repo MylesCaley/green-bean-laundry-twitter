@@ -1,7 +1,7 @@
-green-bean-examples
-============
+Twitter Example - Laundry Cycle Complete
+========================================
 
-This repository contains several examples of using the Green Bean for appliance communications.  For details on the Green Bean SKD visit [Green Bean on GitHub](https://github.com/GEMakers/green-bean).  
+This repository contains several examples of using the Green Bean for appliance communications.  For details on the Green Bean SDK visit [Green Bean on GitHub](https://github.com/firstbuild/green-bean).  
 
 To install, execute the following:
 ``````
